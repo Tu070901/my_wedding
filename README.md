@@ -1,4 +1,4 @@
-# Template website undangan pernikahan sederhana
+<!-- # Template website undangan pernikahan sederhana
 
 ![Thumbnail](/assets/images/banner.png)
 ![Thumbnail2](/assets/images/banner2.png)
@@ -34,4 +34,4 @@ If you find any security vulnerabilities in this undangan, please email DKL via 
 
 ### License
 
-Undangan is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Undangan is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
